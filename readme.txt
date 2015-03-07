@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Check if Featured Image has been set or not for all Post Types.
+Check if Featured Image has been set or not.
 
 == Description ==
 This plugin checks if the post has a featured image set or not. It displays “yes/no” on the post page on the backend.
